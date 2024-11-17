@@ -1,0 +1,7 @@
+{
+  "name": "divisapp-22011423",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
